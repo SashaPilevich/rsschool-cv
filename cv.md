@@ -87,3 +87,20 @@ During the training, several projects were implemented using various technologie
   The project can be viewed at the link: https://sashapilevich.github.io/Plants/plants/
 
 ---
+
+### Education
+
+**RSSchool,now**
+Frontend Developer
+
+**TEACH ME SKILLS,22**
+Frontend Developer
+
+**VITEBSK STATE MEDICAL UNIVERSITY,16**
+Pharmacist
+
+---
+
+### Language
+
+**English B1 (in progress)**
