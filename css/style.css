@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+h1, h2{
+  margin-bottom: 30px;
+}
 .avatar {
   width: 300px;
   height: 300px;
